@@ -1,0 +1,10 @@
+0
+8
+word-count 2 0
+word-count 1 0
+WordCount-KSTREAM-AGGREGATE-STATE-STORE-0000000003-repartition 1 0
+__consumer_offsets 2 0
+__consumer_offsets 0 0
+WordCount-KSTREAM-AGGREGATE-STATE-STORE-0000000003-changelog 0 0
+word-count 0 0
+__consumer_offsets 1 0

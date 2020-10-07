@@ -1,0 +1,1 @@
+/Users/sajeedbakht/Documents/confluent-53/bin/schema-registry-start /Users/sajeedbakht/Documents/confluent-53/etc/schema-registry/schema-registry.properties

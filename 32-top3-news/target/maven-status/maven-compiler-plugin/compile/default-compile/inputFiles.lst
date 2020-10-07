@@ -1,0 +1,8 @@
+/Users/sajeedbakht/Documents/KafkaGIt/newKafkaGit/KafkaProjects/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/GKTableJoinDemo.java
+/Users/sajeedbakht/Documents/KafkaGIt/newKafkaGit/KafkaProjects/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/serde/AppSerdes.java
+/Users/sajeedbakht/Documents/KafkaGIt/newKafkaGit/KafkaProjects/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/serde/JsonSerializer.java
+/Users/sajeedbakht/Documents/KafkaGIt/newKafkaGit/KafkaProjects/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/types/ClicksByNewsType.java
+/Users/sajeedbakht/Documents/KafkaGIt/newKafkaGit/KafkaProjects/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/AppConfigs.java
+/Users/sajeedbakht/Documents/KafkaGIt/newKafkaGit/KafkaProjects/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/serde/JsonDeserializer.java
+/Users/sajeedbakht/Documents/KafkaGIt/newKafkaGit/KafkaProjects/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/types/AdInventories.java
+/Users/sajeedbakht/Documents/KafkaGIt/newKafkaGit/KafkaProjects/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/types/AdClick.java

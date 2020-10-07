@@ -1,0 +1,16 @@
+0
+14
+hadoop-sink 0 0
+hadoop-sink 1 0
+pos 1 62
+pos 2 45
+_schemas 0 3
+__confluent.support.metrics 0 4
+loyalty 0 0
+__consumer_offsets 2 2
+__consumer_offsets 0 0
+pos 0 37
+shipment 0 0
+shipment 1 0
+loyalty 1 0
+__consumer_offsets 1 0

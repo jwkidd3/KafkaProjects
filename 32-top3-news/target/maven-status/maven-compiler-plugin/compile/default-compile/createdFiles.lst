@@ -1,0 +1,10 @@
+guru/learningjournal/kafka/examples/types/AdClick.class
+guru/learningjournal/kafka/examples/serde/AppSerdes$AdClickSerde.class
+guru/learningjournal/kafka/examples/serde/JsonSerializer.class
+guru/learningjournal/kafka/examples/serde/JsonDeserializer.class
+guru/learningjournal/kafka/examples/types/AdInventories.class
+guru/learningjournal/kafka/examples/GKTableJoinDemo.class
+guru/learningjournal/kafka/examples/types/ClicksByNewsType.class
+guru/learningjournal/kafka/examples/AppConfigs.class
+guru/learningjournal/kafka/examples/serde/AppSerdes$AdInventoriesSerde.class
+guru/learningjournal/kafka/examples/serde/AppSerdes.class

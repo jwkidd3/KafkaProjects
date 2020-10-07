@@ -1,0 +1,1 @@
+/Users/sajeedbakht/Documents/confluent-53/bin/kafka-console-consumer --bootstrap-server localhost:9092 --topic hadoop-sink --from-beginning

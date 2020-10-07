@@ -1,0 +1,10 @@
+/Users/jwkidd3/KafkaProjects/05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/types/DeliveryAddress.java
+/Users/jwkidd3/KafkaProjects/05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/PosSimulator.java
+/Users/jwkidd3/KafkaProjects/05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/types/PosInvoice.java
+/Users/jwkidd3/KafkaProjects/05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/datagenerator/InvoiceGenerator.java
+/Users/jwkidd3/KafkaProjects/05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/datagenerator/AddressGenerator.java
+/Users/jwkidd3/KafkaProjects/05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/types/LineItem.java
+/Users/jwkidd3/KafkaProjects/05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/RunnableProducer.java
+/Users/jwkidd3/KafkaProjects/05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/serde/JsonSerializer.java
+/Users/jwkidd3/KafkaProjects/05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/datagenerator/ProductGenerator.java
+/Users/jwkidd3/KafkaProjects/05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/AppsConfig.java

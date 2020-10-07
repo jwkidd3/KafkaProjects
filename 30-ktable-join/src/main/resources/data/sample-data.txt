@@ -1,0 +1,7 @@
+100001:{"UserName": "Prashant", "LoginID": "100001", "LastLogin": "2019-01-01T00:00:00.00Z"}
+100009:{"UserName": "Alisha",   "LoginID": "100009", "LastLogin": "2019-01-01T00:00:00.00Z"}
+100087:{"UserName": "Abdul",    "LoginID": "100087", "LastLogin": "2019-01-01T00:00:00.00Z"}
+
+
+100001:{"LoginID": "100001", "CreatedTime": "2019-02-14T13:01:15.00Z"}
+100087:{"LoginID": "100087", "CreatedTime": "2019-02-14T13:01:18.00Z"}

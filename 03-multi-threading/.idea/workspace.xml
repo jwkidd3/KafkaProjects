@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:05-pos-simulator" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:09-pos-validator" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:18-streaming-table" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:json-to-pojo" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="250e7ce7-7003-4dd4-9aa0-2a9968c17c90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-pos-simulator/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-hello-producer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-hello-producer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/learningjournal/kafka/examples/AppConfigs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiddcorp/kafka/AppConfigs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/learningjournal/kafka/examples/Dispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiddcorp/kafka/Dispatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guru/learningjournal/kafka/examples/DispatcherDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kiddcorp/kafka/DispatcherDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-transactional-producer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04-transactional-producer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-transactional-producer/src/main/java/guru/learningjournal/kafka/examples/AppConfigs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-transactional-producer/src/main/java/com/kiddcorp/kafka/AppConfigs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-transactional-producer/src/main/java/guru/learningjournal/kafka/examples/HelloProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-transactional-producer/src/main/java/com/kiddcorp/kafka/HelloProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/AppsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/com/kiddcorp/kafka/AppsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/PosSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/com/kiddcorp/kafka/PosSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/RunnableProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/com/kiddcorp/kafka/RunnableProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/datagenerator/AddressGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/com/kiddcorp/kafka/datagenerator/AddressGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/datagenerator/InvoiceGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/com/kiddcorp/kafka/datagenerator/InvoiceGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/datagenerator/ProductGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/com/kiddcorp/kafka/datagenerator/ProductGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/serde/JsonSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/com/kiddcorp/kafka/serde/JsonSerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/types/DeliveryAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/com/kiddcorp/kafka/types/DeliveryAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/types/LineItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/com/kiddcorp/kafka/types/LineItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/guru/learningjournal/kafka/examples/types/PosInvoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/src/main/java/com/kiddcorp/kafka/types/PosInvoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/target/classes/data/Invoice.json" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/target/classes/data/Invoice.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/target/classes/data/address.json" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/target/classes/data/address.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/target/classes/data/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/target/classes/data/products.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-pos-simulator/target/classes/schema/Invoice.json" beforeDir="false" afterPath="$PROJECT_DIR$/../05-pos-simulator/target/classes/schema/Invoice.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-sync-hello-producer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06-sync-hello-producer/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aYiiv6p6slfNszhD5yNDCHXpjK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="guru.learningjournal.kafka.examples" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Udemy\StarterProject\03-multi-threading" />
+      <recent name="C:\Udemy\StarterProject\03-multi-threading\data" />
+      <recent name="C:\Udemy\StarterProject\03-multi-threading\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="250e7ce7-7003-4dd4-9aa0-2a9968c17c90" name="Default Changelist" comment="" />
+      <created>1562942901265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562942901265</updated>
+      <workItem from="1602076868818" duration="724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="167" width="649" height="548" key="find.popup" timestamp="1602076881286">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="431" y="167" width="649" height="548" key="find.popup/0.23.1440.877/1440.23.1600.877@0.23.1440.877" timestamp="1602076881286" />
+  </component>
+</project>

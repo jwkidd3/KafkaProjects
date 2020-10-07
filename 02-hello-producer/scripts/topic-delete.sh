@@ -1,0 +1,1 @@
+/Users/sajeedbakht/Documents/kafka23/bin/kafka-topics.sh --delete --zookeeper localhost:2181 --hello-producer-topic
